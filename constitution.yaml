@@ -1,0 +1,5 @@
+name: hexacrypted
+description: A cryptography and privacy-focused open source project.
+contributors:
+  - github: iamcrypted
+quorum: 1

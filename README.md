@@ -10,4 +10,4 @@ Hexadia is an open-source project focused on cryptographic tooling and privacy s
 ## Getting Started
 To clone the repo:
 ```bash
-git clone https://github.com/iamcrypted/hexdia.git
+git clone https://github.com/iamcrypted/hexadia.git

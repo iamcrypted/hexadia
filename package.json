@@ -4,13 +4,27 @@
   "description": "Proyek open source Hexadia oleh Iamcrypted",
   "main": "src/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/Iamcrypted/hexadia.git"
   },
-  "keywords": ["hexadia", "web3", "tea-protocol", "decentralized"],
+  "keywords": [
+    "hexadia",
+    "web3",
+    "tea-protocol",
+    "decentralized"
+  ],
   "author": "Iamcrypted",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^6.0.1",
+    "express": "^4.17.1",
+    "google-tts-api": "^0.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }

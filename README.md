@@ -1,13 +1,27 @@
-# hexadia
+# Hexadia
 
-Hexadia is an open-source project focused on cryptographic tooling and privacy solutions.
+**Hexadia** is an open-source modular system designed for Web3 projects, built with a strong focus on decentralization, encryption, and extensibility.
+
+## Vision
+
+To create a foundation for secure, transparent, and scalable decentralized applications.
 
 ## Features
-- End-to-end encryption modules
-- Zero-knowledge proof integration
-- Privacy-preserving architecture
 
-## Getting Started
-To clone the repo:
+- Modular architecture
+- Encrypted data flow
+- Lightweight core framework
+
+## Roadmap
+
+- [x] Initial setup with NPM
+- [ ] Core module design
+- [ ] Encryption layer implementation
+- [ ] CLI tooling
+- [ ] API + documentation
+
+## Install & Run
+
 ```bash
-git clone https://github.com/iamcrypted/hexadia.git
+npm install
+node src/index.js

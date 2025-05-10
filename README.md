@@ -1,6 +1,6 @@
-# hexacrypted
+# hexadia
 
-Hexacrypted is an open-source project focused on cryptographic tooling and privacy solutions.
+Hexadia is an open-source project focused on cryptographic tooling and privacy solutions.
 
 ## Features
 - End-to-end encryption modules
@@ -10,4 +10,4 @@ Hexacrypted is an open-source project focused on cryptographic tooling and priva
 ## Getting Started
 To clone the repo:
 ```bash
-git clone https://github.com/iamcrypted/hexacrypted.git
+git clone https://github.com/iamcrypted/hexdia.git
